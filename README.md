@@ -4,6 +4,10 @@
 
 The main idea behind this app is to provide a convenient alternative to Excel spreadsheets for tracking utilities. Once all services are set up, you only need to enter the current meter readings (the previous period is filled in automatically) and save the report. All data is preserved for previous months.
 
+You can install this app directly from your mobile browser - no app store required. Works offline after installation.
+1. Open the app in your browser  
+2. Tap “Add to Home Screen”  
+3. Use it like a regular app, even offline
 ---
 
 ## 🌐 Live Demo
@@ -19,6 +23,8 @@ https://nuance777.github.io/YourUtility/
   <img src="images/services.png" width="250">
   <img src="images/readings.png" width="250">
   <img src="images/reports.png" width="250">
+  <img src="images/history.png" width="250">
+  <img src="images/analytics.png" width="250">
 </p>
 
 ---
@@ -38,20 +44,24 @@ https://nuance777.github.io/YourUtility/
 
 ## 📱 Android App
 
-You can also use this application on Android devices.
+You can install this app on Android devices using an APK file (no Google Play required).
 
-👉 Download it here:
+👉 Download the APK:
 https://nuance777.itch.io/your-utility
 
-Enjoy tracking your utilities on the go!
+**How to install:**
+1. Download the APK file  
+2. Open it on your device  
+3. Allow installation from unknown sources if prompted  
+4. Install and enjoy the app
 
 ---
 
 ## ▶️ How to Use
 
-1. Open the live demo link  
-2. Add your utilities (e.g. electricity, water, gas)  
-3. Enter your meter readings  
+1. Open the live demo link in your browser
+2. Add house and your utilities (e.g. electricity, water, gas)  
+3. Enter your meter readings and save the report
 4. Track your monthly usage and expenses  
 5. Export reports if needed  
 
