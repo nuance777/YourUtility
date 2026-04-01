@@ -1,12 +1,14 @@
 ## Utility Calculator - Your Utility
 
-A simple and intuitive web app for tracking home utilities, meter readings, and monthly expenses.
+**A simple and intuitive web app for tracking home utilities, meter readings, and monthly expenses.**
+
+The main idea behind this app is to provide a convenient alternative to Excel spreadsheets for tracking utilities. Once all services are set up, you only need to enter the current meter readings (the previous period is filled in automatically) and save the report. All data is preserved for previous months.
 
 ---
 
 ## 🌐 Live Demo
 
-https://your-username.github.io/repo-name/
+https://nuance777.github.io/YourUtility/
 
 ---
 
@@ -28,7 +30,9 @@ https://your-username.github.io/repo-name/
 - View monthly expense summaries  
 - Export reports (PDF / Excel)  
 - Responsive design for mobile and desktop  
-- Multi-language support  
+- Multi-language support: Deutsch, English, Espanol, Francais, Italiano, Portugues, Russian, Ukranian
+- Backup & Restore
+- Support for multiple color themes, including light and dark modes
 
 ---
 
