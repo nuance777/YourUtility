@@ -10,7 +10,7 @@ You can install this app directly from your mobile browser - no app store requir
 3. Use it like a regular app, even offline
 ---
 
-## 🌐 Live Demo
+## 🌐 Open the App
 
 https://nuance777.github.io/YourUtility/
 
@@ -59,7 +59,7 @@ https://nuance777.itch.io/your-utility
 
 ## ▶️ How to Use
 
-1. Open the live demo link in your browser
+1. Open the App link in your browser
 2. Add house and your utilities (e.g. electricity, water, gas)  
 3. Enter your meter readings and save the report
 4. Track your monthly usage and expenses  
