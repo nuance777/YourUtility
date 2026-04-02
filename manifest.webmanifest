@@ -1,0 +1,1 @@
+{"name":"Your Utility","short_name":"Utility","start_url":"/YourUtility/","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","lang":"en","scope":"/YourUtility/","icons":[{"src":"/YourUtility/pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/YourUtility/pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
